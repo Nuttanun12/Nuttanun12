@@ -1,22 +1,22 @@
 {
   "username": "Nuttanun12",
-  "generated_at": "2026-11-16T15:51:47Z",
+  "generated_at": "2026-11-17T16:04:31Z",
   "range": {
     "start": "2025-11-16",
+    "end": "2026-11-17"
+  },
+  "total_contributions": 81,
+  "active_days": 30,
+  "avg_per_active_day": 2.7,
+  "current_streak": {
+    "length": 14,
+    "start": "2026-11-03",
     "end": "2026-11-16"
   },
-  "total_contributions": 80,
-  "active_days": 29,
-  "avg_per_active_day": 2.8,
-  "current_streak": {
-    "length": 13,
-    "start": "2026-11-03",
-    "end": "2026-11-15"
-  },
   "longest_streak": {
-    "length": 13,
+    "length": 14,
     "start": "2026-11-03",
-    "end": "2026-11-15"
+    "end": "2026-11-16"
   },
   "best_day": {
     "date": "2026-11-10",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 36
+      "total": 37
     }
   ],
   "days": [
@@ -1904,6 +1904,11 @@
     },
     {
       "date": "2026-11-16",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-17",
       "count": 0,
       "level": 0
     }
